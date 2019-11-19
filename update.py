@@ -35,12 +35,16 @@ class App(BasicParser):
             td = th.getparent().xpath('./following-sibling::tr//td[1]')
             return td[0].text_content().replace(',', '')
 
+        def get_area(th):
+            td = th.getparent().xpath('./following-sibling::tr//td[1]')
+            return td[0].text_content().split('\xa0km')[0]
+
         info = {}
 
         page = self.get_page('%s%s' % (URL_ROOT, url))
         html = fromstring(page)
 
-        th1 = html.xpath('.//table[contains(@class, "geography")]//tbody//tr//th[1]')
+        th1 = html.xpath('.//table[contains(@class, "geography")]//tbody//tr//th[1]//div[@style="display:inline"]')
         info['name'] = th1[0].text_content().strip()
 
         geo = html.xpath('.//span[@class="geo"]')
@@ -48,7 +52,7 @@ class App(BasicParser):
             info['coords'] = {'lat': geo[0].text_content().split('; ')[0],
                               'lon': geo[0].text_content().split('; ')[1]}
 
-        for th in html.xpath('.//table[contains(@class, "geography")]//tr//th'):
+        for th in html.xpath('.//table[contains(@class, "geography")][1]//tr//th'):
             title = th.text_content().strip()
 
             if title == 'State':
@@ -57,8 +61,10 @@ class App(BasicParser):
                 info['district'] = get_td(th)
             elif title.startswith('Population'):
                 info['population'] = get_population(th)
+            elif title == 'Area' and not 'area' in info.keys():
+                # We need to consider only the first occurance of 'Area'
+                info['area'] = get_area(th)
 
-        print(info)
         return info
 
     def run(self):
@@ -66,15 +72,14 @@ class App(BasicParser):
         html = fromstring(page)
 
         for a1 in html.xpath('.//table//tbody//tr//ul//li//a[1]'):
-            print(a1.text_content())
-            print(a1.get('href'))
 
             info = self.get_city_info(a1.get('href'))
 
             if info is not None:
+                print(info['name'], file=sys.stderr)
                 self.data.append(info)
             else:
-                print("Couldn't get info")
+                print("Couldn't get info", file=sys.stderr)
 
         output = sorted(self.data, key=lambda k: k['name'])
         print(json.dumps(output, ensure_ascii=False, sort_keys=True))
