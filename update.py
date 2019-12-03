@@ -9,6 +9,7 @@
 import os
 import sys
 import json
+import argparse
 
 from lxml.html import fromstring
 
@@ -23,8 +24,18 @@ class App(BasicParser):
     data = list()
 
     def __init__(self):
+        parser = argparse.ArgumentParser(description='Parse database export script')
+        parser.add_argument('--url', help='Process only this URL', type=str, required=False)
+        self.args = parser.parse_args()
+
         self.cache = FileCache(namespace='germany-cities', path=os.environ.get('CACHE_PATH'))
         self.net = NetworkManager()
+
+    def get_url(self, url):
+        if url.startswith('https://'):
+            return url
+        else:
+            return '%s%s' % (URL_ROOT, url)
 
     def get_city_info(self, url):
         def get_td(th):
@@ -41,7 +52,7 @@ class App(BasicParser):
 
         info = {}
 
-        page = self.get_page('%s%s' % (URL_ROOT, url))
+        page = self.get_page(self.get_url(url))
         html = fromstring(page)
 
         th1 = html.xpath('.//table[contains(@class, "geography")]//tbody//tr//th[1]//div[@style="display:inline"]')
@@ -61,13 +72,19 @@ class App(BasicParser):
                 info['district'] = get_td(th)
             elif title.startswith('Population'):
                 info['population'] = get_population(th)
-            elif title == 'Area' and not 'area' in info.keys():
-                # We need to consider only the first occurance of 'Area'
+            elif (title == 'Area' or title == 'Area[1]') and not 'area' in info.keys():
+                # We need to consider only the first occurance of 'Area',
+                # FIXME: check for 'Area[1]' is only for Berlin
                 info['area'] = get_area(th)
 
         return info
 
     def run(self):
+        if self.args.url is not None:
+            info = self.get_city_info(self.args.url)
+            print(json.dumps(info))
+            sys.exit(0)
+
         page = self.get_page('https://en.m.wikipedia.org/wiki/List_of_cities_and_towns_in_Germany')
         html = fromstring(page)
 
