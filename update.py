@@ -53,6 +53,9 @@ class App(BasicParser):
         info = {}
 
         page = self.get_page(self.get_url(url))
+
+        if self.args.url:
+            print(self.cache.get_cached_filename(url), file=sys.stderr)
         html = fromstring(page)
 
         th1 = html.xpath('.//table[contains(@class, "geography")]//tbody//tr//th[1]//div[@style="display:inline"]')
