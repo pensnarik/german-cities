@@ -93,6 +93,10 @@ class App(BasicParser):
 
         for a1 in html.xpath('.//table//tbody//tr//ul//li//a[1]'):
 
+            # Skip pages that don't exist yet
+            if a1.get('class') == 'new':
+                continue
+
             info = self.get_city_info(a1.get('href'))
 
             if info is not None:
