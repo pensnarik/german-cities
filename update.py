@@ -4,7 +4,7 @@
 
 # Script gets list of the Germany cities from Wikipedia and basic information
 # about them: name, subject, district, population and coordinates.
-# Copyright Andrey Zhidenkov, 2019 (c)
+# Copyright Andrey Zhidenkov, 2019-2020 (c)
 
 import os
 import sys
