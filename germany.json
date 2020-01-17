@@ -385,17 +385,6 @@
     "state": "Rhineland-Palatinate"
   },
   {
-    "area": "92.42",
-    "coords": {
-      "lat": "51.067",
-      "lon": "11.250"
-    },
-    "district": "Weimarer Land",
-    "name": "Am Ettersberg",
-    "population": "7097",
-    "state": "Thuringia"
-  },
-  {
     "area": "50.04",
     "coords": {
       "lat": "49.44444",
@@ -2400,8 +2389,8 @@
   {
     "area": "891.1",
     "coords": {
-      "lat": "52.51667",
-      "lon": "13.38889"
+      "lat": "52.52000",
+      "lon": "13.40500"
     },
     "name": "Berlin",
     "population": "3748148",
@@ -3494,17 +3483,6 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "104.80",
-    "coords": {
-      "lat": "51.11667",
-      "lon": "11.41667"
-    },
-    "district": "Sömmerda",
-    "name": "Buttstädt",
-    "population": "6734",
-    "state": "Thuringia"
-  },
-  {
     "area": "106.60",
     "coords": {
       "lat": "50.43667",
@@ -3899,17 +3877,6 @@
     "name": "Creglingen",
     "population": "4694",
     "state": "Baden-Württemberg"
-  },
-  {
-    "area": "35.33",
-    "coords": {
-      "lat": "51.05139",
-      "lon": "10.24472"
-    },
-    "district": "Wartburgkreis",
-    "name": "Creuzburg",
-    "population": "2305",
-    "state": "Thuringia"
   },
   {
     "area": "66.48",
@@ -7140,7 +7107,7 @@
       "lon": "11.967"
     },
     "district": "Ebersberg",
-    "name": "Grafing b.München",
+    "name": "Grafing bei München",
     "population": "13660",
     "state": "Bavaria"
   },
@@ -10077,17 +10044,6 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "57.85",
-    "coords": {
-      "lat": "51.26667",
-      "lon": "11.08306"
-    },
-    "district": "Sömmerda",
-    "name": "Kindelbrück",
-    "population": "3846",
-    "state": "Thuringia"
-  },
-  {
     "area": "39.58",
     "coords": {
       "lat": "50.62222",
@@ -11273,6 +11229,17 @@
     "district": "Esslingen",
     "name": "Leinfelden-Echterdingen",
     "population": "40092",
+    "state": "Baden-Württemberg"
+  },
+  {
+    "area": "23.48",
+    "coords": {
+      "lat": "49.150",
+      "lon": "9.117"
+    },
+    "district": "Heilbronn",
+    "name": "Leingarten",
+    "population": "11633",
     "state": "Baden-Württemberg"
   },
   {
@@ -17586,17 +17553,6 @@
     "name": "Schlitz",
     "population": "9764",
     "state": "Hesse"
-  },
-  {
-    "area": "22.31",
-    "coords": {
-      "lat": "51.24694",
-      "lon": "10.65639"
-    },
-    "district": "Unstrut-Hainich-Kreis",
-    "name": "Schlotheim",
-    "population": "3559",
-    "state": "Thuringia"
   },
   {
     "area": "67.42",
