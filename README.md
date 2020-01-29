@@ -1,3 +1,5 @@
+![Cities count](https://img.shields.io/badge/cities-2052-green)
+
 # Cities of Germany
 
 This repository contains information about 2056 cities of Germany in JSON format and
