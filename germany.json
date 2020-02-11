@@ -407,6 +407,17 @@
     "state": "Bavaria"
   },
   {
+    "area": "69.73",
+    "coords": {
+      "lat": "51.05139",
+      "lon": "10.24472"
+    },
+    "district": "Wartburgkreis",
+    "name": "Amt Creuzburg",
+    "population": "4732",
+    "state": "Thuringia"
+  },
+  {
     "area": "43.95",
     "coords": {
       "lat": "50.79778",
@@ -14342,6 +14353,17 @@
     "name": "Nossen",
     "population": "10598",
     "state": "Saxony"
+  },
+  {
+    "area": "75.95",
+    "coords": {
+      "lat": "51.24694",
+      "lon": "10.65639"
+    },
+    "district": "Unstrut-Hainich-Kreis",
+    "name": "Nottertal-Heilinger Höhen",
+    "population": "5963",
+    "state": "Thuringia"
   },
   {
     "area": "186.46",
