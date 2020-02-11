@@ -4671,14 +4671,14 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "40.74",
+    "area": "44.54",
     "coords": {
       "lat": "51.28333",
       "lon": "10.73333"
     },
     "district": "Kyffhäuserkreis",
     "name": "Ebeleben",
-    "population": "2609",
+    "population": "2717",
     "state": "Thuringia"
   },
   {
@@ -7167,14 +7167,14 @@
     "state": "Mecklenburg-Vorpommern"
   },
   {
-    "area": "76.3",
+    "area": "84.87",
     "coords": {
       "lat": "50.65472",
       "lon": "12.19972"
     },
     "district": "Greiz",
     "name": "Greiz",
-    "population": "20103",
+    "population": "20524",
     "state": "Thuringia"
   },
   {
@@ -12552,14 +12552,14 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "89.89",
+    "area": "105.65",
     "coords": {
       "lat": "50.550",
       "lon": "10.417"
     },
     "district": "Schmalkalden-Meiningen",
     "name": "Meiningen",
-    "population": "24233",
+    "population": "24852",
     "state": "Thuringia"
   },
   {
@@ -17313,14 +17313,14 @@
     "state": "Saxony"
   },
   {
-    "area": "33.57",
+    "area": "44.03",
     "coords": {
       "lat": "50.39444",
       "lon": "11.00861"
     },
     "district": "Sonneberg",
     "name": "Schalkau",
-    "population": "2915",
+    "population": "3353",
     "state": "Thuringia"
   },
   {
@@ -17489,14 +17489,14 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "94.56",
+    "area": "108.22",
     "coords": {
       "lat": "50.58333",
       "lon": "11.81667"
     },
     "district": "Saale-Orla-Kreis",
     "name": "Schleiz",
-    "population": "8854",
+    "population": "8936",
     "state": "Thuringia"
   },
   {
@@ -20711,14 +20711,14 @@
     "state": "Bavaria"
   },
   {
-    "area": "270.68",
+    "area": "334.8",
     "coords": {
       "lat": "52.867",
       "lon": "9.583"
     },
     "district": "Heidekreis",
     "name": "Walsrode",
-    "population": "23068",
+    "population": "30038",
     "state": "Lower Saxony"
   },
   {
