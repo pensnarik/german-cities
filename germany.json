@@ -1,16 +1,5 @@
 [
   {
-    "area": "10.69",
-    "coords": {
-      "lat": "47.84556",
-      "lon": "8.85167"
-    },
-    "district": "Konstanz",
-    "name": "Aach",
-    "population": "2296",
-    "state": "Baden-Württemberg"
-  },
-  {
     "area": "160.85",
     "coords": {
       "lat": "50.77556",
@@ -20,6 +9,17 @@
     "name": "Aachen",
     "population": "247380",
     "state": "North Rhine-Westphalia"
+  },
+  {
+    "area": "10.69",
+    "coords": {
+      "lat": "47.84556",
+      "lon": "8.85167"
+    },
+    "district": "Konstanz",
+    "name": "Aach",
+    "population": "2296",
+    "state": "Baden-Württemberg"
   },
   {
     "area": "146.63",
@@ -693,17 +693,6 @@
     "state": "Saxony"
   },
   {
-    "area": "55.52",
-    "coords": {
-      "lat": "50.50944",
-      "lon": "12.40000"
-    },
-    "district": "Vogtlandkreis",
-    "name": "Auerbach",
-    "population": "18357",
-    "state": "Saxony"
-  },
-  {
     "area": "70.33",
     "coords": {
       "lat": "49.683",
@@ -713,6 +702,17 @@
     "name": "Auerbach in der Oberpfalz",
     "population": "8818",
     "state": "Bavaria"
+  },
+  {
+    "area": "55.52",
+    "coords": {
+      "lat": "50.50944",
+      "lon": "12.40000"
+    },
+    "district": "Vogtlandkreis",
+    "name": "Auerbach",
+    "population": "18357",
+    "state": "Saxony"
   },
   {
     "area": "146.84",
@@ -1276,17 +1276,6 @@
     "state": "Baden-Württemberg"
   },
   {
-    "area": "46.73",
-    "coords": {
-      "lat": "49.750",
-      "lon": "9.017"
-    },
-    "district": "Odenwaldkreis",
-    "name": "Bad König",
-    "population": "9762",
-    "state": "Hesse"
-  },
-  {
     "area": "69.52",
     "coords": {
       "lat": "50.300",
@@ -1296,6 +1285,17 @@
     "name": "Bad Königshofen",
     "population": "5984",
     "state": "Bavaria"
+  },
+  {
+    "area": "46.73",
+    "coords": {
+      "lat": "49.750",
+      "lon": "9.017"
+    },
+    "district": "Odenwaldkreis",
+    "name": "Bad König",
+    "population": "9762",
+    "state": "Hesse"
   },
   {
     "area": "16.85",
@@ -1738,17 +1738,6 @@
     "state": "Rhineland-Palatinate"
   },
   {
-    "area": "12.55",
-    "coords": {
-      "lat": "50.133",
-      "lon": "8.500"
-    },
-    "district": "Main-Taunus-Kreis",
-    "name": "Bad Soden",
-    "population": "22645",
-    "state": "Hesse"
-  },
-  {
     "area": "58.62",
     "coords": {
       "lat": "50.267",
@@ -1757,6 +1746,17 @@
     "district": "Main-Kinzig-Kreis",
     "name": "Bad Soden-Salmünster",
     "population": "13370",
+    "state": "Hesse"
+  },
+  {
+    "area": "12.55",
+    "coords": {
+      "lat": "50.133",
+      "lon": "8.500"
+    },
+    "district": "Main-Taunus-Kreis",
+    "name": "Bad Soden",
+    "population": "22645",
     "state": "Hesse"
   },
   {
@@ -2332,17 +2332,6 @@
     "state": "Thuringia"
   },
   {
-    "area": "163.77",
-    "coords": {
-      "lat": "52.81028",
-      "lon": "9.96111"
-    },
-    "district": "Celle",
-    "name": "Bergen",
-    "population": "13556",
-    "state": "Lower Saxony"
-  },
-  {
     "area": "51.42",
     "coords": {
       "lat": "54.417",
@@ -2352,6 +2341,17 @@
     "name": "Bergen auf Rügen",
     "population": "13460",
     "state": "Mecklenburg-Western Pomerania"
+  },
+  {
+    "area": "163.77",
+    "coords": {
+      "lat": "52.81028",
+      "lon": "9.96111"
+    },
+    "district": "Celle",
+    "name": "Bergen",
+    "population": "13556",
+    "state": "Lower Saxony"
   },
   {
     "area": "96.33",
@@ -2847,17 +2847,6 @@
     "state": "Mecklenburg-Western Pomerania"
   },
   {
-    "area": "141.06",
-    "coords": {
-      "lat": "50.733",
-      "lon": "7.100"
-    },
-    "district": "Urban district",
-    "name": "Bonn",
-    "population": "327258",
-    "state": "North Rhine-Westphalia"
-  },
-  {
     "area": "76.03",
     "coords": {
       "lat": "47.81944",
@@ -2867,6 +2856,17 @@
     "name": "Bonndorf",
     "population": "6922",
     "state": "Baden-Württemberg"
+  },
+  {
+    "area": "141.06",
+    "coords": {
+      "lat": "50.733",
+      "lon": "7.100"
+    },
+    "district": "Urban district",
+    "name": "Bonn",
+    "population": "327258",
+    "state": "North Rhine-Westphalia"
   },
   {
     "area": "76.98",
@@ -2913,17 +2913,6 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "152.6",
-    "coords": {
-      "lat": "51.833",
-      "lon": "6.867"
-    },
-    "district": "Borken",
-    "name": "Borken",
-    "population": "42530",
-    "state": "North Rhine-Westphalia"
-  },
-  {
     "area": "82.3",
     "coords": {
       "lat": "51.04583",
@@ -2933,6 +2922,17 @@
     "name": "Borken",
     "population": "12649",
     "state": "Hesse"
+  },
+  {
+    "area": "152.6",
+    "coords": {
+      "lat": "51.833",
+      "lon": "6.867"
+    },
+    "district": "Borken",
+    "name": "Borken",
+    "population": "42530",
+    "state": "North Rhine-Westphalia"
   },
   {
     "area": "30.74",
@@ -3001,17 +3001,6 @@
     "state": "Baden-Württemberg"
   },
   {
-    "area": "38.18",
-    "coords": {
-      "lat": "53.333",
-      "lon": "8.483"
-    },
-    "district": "Wesermarsch",
-    "name": "Brake",
-    "population": "14965",
-    "state": "Lower Saxony"
-  },
-  {
     "area": "173.74",
     "coords": {
       "lat": "51.717",
@@ -3021,6 +3010,17 @@
     "name": "Brakel",
     "population": "16270",
     "state": "North Rhine-Westphalia"
+  },
+  {
+    "area": "38.18",
+    "coords": {
+      "lat": "53.333",
+      "lon": "8.483"
+    },
+    "district": "Wesermarsch",
+    "name": "Brake",
+    "population": "14965",
+    "state": "Lower Saxony"
   },
   {
     "area": "183.32",
@@ -3362,17 +3362,6 @@
     "state": "Brandenburg"
   },
   {
-    "area": "164.02",
-    "coords": {
-      "lat": "52.27250",
-      "lon": "11.85500"
-    },
-    "district": "Jerichower Land",
-    "name": "Burg",
-    "population": "22478",
-    "state": "Saxony-Anhalt"
-  },
-  {
     "area": "76.55",
     "coords": {
       "lat": "53.483",
@@ -3470,6 +3459,17 @@
     "name": "Burgwedel",
     "population": "20369",
     "state": "Lower Saxony"
+  },
+  {
+    "area": "164.02",
+    "coords": {
+      "lat": "52.27250",
+      "lon": "11.85500"
+    },
+    "district": "Jerichower Land",
+    "name": "Burg",
+    "population": "22478",
+    "state": "Saxony-Anhalt"
   },
   {
     "area": "123.33",
@@ -4275,17 +4275,6 @@
     "state": "Hesse"
   },
   {
-    "area": "22.07",
-    "coords": {
-      "lat": "49.350",
-      "lon": "6.733"
-    },
-    "district": "Saarlouis",
-    "name": "Dillingen",
-    "population": "20048",
-    "state": "Saarland"
-  },
-  {
     "area": "75.59",
     "coords": {
       "lat": "48.567",
@@ -4295,6 +4284,17 @@
     "name": "Dillingen an der Donau",
     "population": "18978",
     "state": "Bavaria"
+  },
+  {
+    "area": "22.07",
+    "coords": {
+      "lat": "49.350",
+      "lon": "6.733"
+    },
+    "district": "Saarlouis",
+    "name": "Dillingen",
+    "population": "20048",
+    "state": "Saarland"
   },
   {
     "area": "59.40",
@@ -4924,17 +4924,6 @@
     "state": "Thuringia"
   },
   {
-    "area": "24.85",
-    "coords": {
-      "lat": "50.96667",
-      "lon": "11.90000"
-    },
-    "district": "Saale-Holzland-Kreis",
-    "name": "Eisenberg",
-    "population": "10885",
-    "state": "Thuringia"
-  },
-  {
     "area": "18.73",
     "coords": {
       "lat": "49.56139",
@@ -4944,6 +4933,17 @@
     "name": "Eisenberg",
     "population": "9264",
     "state": "Rhineland-Palatinate"
+  },
+  {
+    "area": "24.85",
+    "coords": {
+      "lat": "50.96667",
+      "lon": "11.90000"
+    },
+    "district": "Saale-Holzland-Kreis",
+    "name": "Eisenberg",
+    "population": "10885",
+    "state": "Thuringia"
   },
   {
     "area": "63.40",
@@ -5594,17 +5594,6 @@
     "state": "Brandenburg"
   },
   {
-    "area": "31.06",
-    "coords": {
-      "lat": "50.467",
-      "lon": "12.367"
-    },
-    "district": "Vogtlandkreis",
-    "name": "Falkenstein",
-    "population": "8061",
-    "state": "Saxony"
-  },
-  {
     "area": "102.98",
     "coords": {
       "lat": "51.733",
@@ -5614,6 +5603,17 @@
     "name": "Falkenstein/Harz",
     "population": "5274",
     "state": "Saxony-Anhalt"
+  },
+  {
+    "area": "31.06",
+    "coords": {
+      "lat": "50.467",
+      "lon": "12.367"
+    },
+    "district": "Vogtlandkreis",
+    "name": "Falkenstein",
+    "population": "8061",
+    "state": "Saxony"
   },
   {
     "area": "185.45",
@@ -5814,17 +5814,6 @@
     "state": "Rhineland-Palatinate"
   },
   {
-    "area": "147.61",
-    "coords": {
-      "lat": "52.350",
-      "lon": "14.550"
-    },
-    "district": "Urban district",
-    "name": "Frankfurt",
-    "population": "57873",
-    "state": "Brandenburg"
-  },
-  {
     "area": "248.31",
     "coords": {
       "lat": "50.117",
@@ -5834,6 +5823,17 @@
     "name": "Frankfurt am Main",
     "population": "753056",
     "state": "Hesse"
+  },
+  {
+    "area": "147.61",
+    "coords": {
+      "lat": "52.350",
+      "lon": "14.550"
+    },
+    "district": "Urban district",
+    "name": "Frankfurt",
+    "population": "57873",
+    "state": "Brandenburg"
   },
   {
     "area": "15.19",
@@ -5869,17 +5869,6 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "48.05",
-    "coords": {
-      "lat": "50.91194",
-      "lon": "13.34278"
-    },
-    "district": "Mittelsachsen",
-    "name": "Freiberg",
-    "population": "40885",
-    "state": "Saxony"
-  },
-  {
     "area": "13.14",
     "coords": {
       "lat": "48.93333",
@@ -5889,6 +5878,17 @@
     "name": "Freiberg am Neckar",
     "population": "15968",
     "state": "Baden-Württemberg"
+  },
+  {
+    "area": "48.05",
+    "coords": {
+      "lat": "50.91194",
+      "lon": "13.34278"
+    },
+    "district": "Mittelsachsen",
+    "name": "Freiberg",
+    "population": "40885",
+    "state": "Saxony"
   },
   {
     "area": "153.07",
@@ -6056,17 +6056,6 @@
     "state": "Hesse"
   },
   {
-    "area": "141.73",
-    "coords": {
-      "lat": "53.650",
-      "lon": "13.533"
-    },
-    "district": "Mecklenburgische Seenplatte",
-    "name": "Friedland",
-    "population": "6472",
-    "state": "Mecklenburg-Western Pomerania"
-  },
-  {
     "area": "173.21",
     "coords": {
       "lat": "52.100",
@@ -6076,6 +6065,17 @@
     "name": "Friedland",
     "population": "2957",
     "state": "Brandenburg"
+  },
+  {
+    "area": "141.73",
+    "coords": {
+      "lat": "53.650",
+      "lon": "13.533"
+    },
+    "district": "Mecklenburgische Seenplatte",
+    "name": "Friedland",
+    "population": "6472",
+    "state": "Mecklenburg-Western Pomerania"
   },
   {
     "area": "36.91",
@@ -6551,17 +6551,6 @@
     "state": "Baden-Württemberg"
   },
   {
-    "area": "31.95",
-    "coords": {
-      "lat": "48.28750",
-      "lon": "8.81250"
-    },
-    "district": "Zollernalbkreis",
-    "name": "Geislingen",
-    "population": "5881",
-    "state": "Baden-Württemberg"
-  },
-  {
     "area": "75.83",
     "coords": {
       "lat": "48.62444",
@@ -6570,6 +6559,17 @@
     "district": "Göppingen",
     "name": "Geislingen an der Steige",
     "population": "28122",
+    "state": "Baden-Württemberg"
+  },
+  {
+    "area": "31.95",
+    "coords": {
+      "lat": "48.28750",
+      "lon": "8.81250"
+    },
+    "district": "Zollernalbkreis",
+    "name": "Geislingen",
+    "population": "5881",
     "state": "Baden-Württemberg"
   },
   {
@@ -6617,17 +6617,6 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "58.67",
-    "coords": {
-      "lat": "50.967",
-      "lon": "8.967"
-    },
-    "district": "Waldeck-Frankenberg",
-    "name": "Gemünden",
-    "population": "3801",
-    "state": "Hesse"
-  },
-  {
     "area": "75.09",
     "coords": {
       "lat": "50.04972",
@@ -6637,6 +6626,17 @@
     "name": "Gemünden am Main",
     "population": "10119",
     "state": "Bavaria"
+  },
+  {
+    "area": "58.67",
+    "coords": {
+      "lat": "50.967",
+      "lon": "8.967"
+    },
+    "district": "Waldeck-Frankenberg",
+    "name": "Gemünden",
+    "population": "3801",
+    "state": "Hesse"
   },
   {
     "area": "61.91",
@@ -6672,17 +6672,6 @@
     "state": "Lower Saxony"
   },
   {
-    "area": "152.19",
-    "coords": {
-      "lat": "50.88056",
-      "lon": "12.08333"
-    },
-    "district": "Urban district",
-    "name": "Gera",
-    "population": "94152",
-    "state": "Thuringia"
-  },
-  {
     "area": "40.38",
     "coords": {
       "lat": "49.24944",
@@ -6692,6 +6681,17 @@
     "name": "Gerabronn",
     "population": "4270",
     "state": "Baden-Württemberg"
+  },
+  {
+    "area": "152.19",
+    "coords": {
+      "lat": "50.88056",
+      "lon": "12.08333"
+    },
+    "district": "Urban district",
+    "name": "Gera",
+    "population": "94152",
+    "state": "Thuringia"
   },
   {
     "area": "102.28",
@@ -7200,17 +7200,6 @@
     "state": "Thuringia"
   },
   {
-    "area": "140.26",
-    "coords": {
-      "lat": "52.09167",
-      "lon": "7.60833"
-    },
-    "district": "Steinfurt",
-    "name": "Greven",
-    "population": "37692",
-    "state": "North Rhine-Westphalia"
-  },
-  {
     "area": "102.6",
     "coords": {
       "lat": "51.08833",
@@ -7219,6 +7208,17 @@
     "district": "Rhein-Kreis Neuss",
     "name": "Grevenbroich",
     "population": "63620",
+    "state": "North Rhine-Westphalia"
+  },
+  {
+    "area": "140.26",
+    "coords": {
+      "lat": "52.09167",
+      "lon": "7.60833"
+    },
+    "district": "Steinfurt",
+    "name": "Greven",
+    "population": "37692",
     "state": "North Rhine-Westphalia"
   },
   {
@@ -7728,17 +7728,6 @@
     "state": "Hesse"
   },
   {
-    "area": "160.4",
-    "coords": {
-      "lat": "51.367",
-      "lon": "7.483"
-    },
-    "district": "Urban districts of Germany",
-    "name": "Hagen",
-    "population": "188814",
-    "state": "North Rhine-Westphalia"
-  },
-  {
     "area": "15.85",
     "coords": {
       "lat": "49.02056",
@@ -7761,15 +7750,15 @@
     "state": "Mecklenburg-Western Pomerania"
   },
   {
-    "area": "106.67",
+    "area": "160.4",
     "coords": {
-      "lat": "50.74222",
-      "lon": "8.20389"
+      "lat": "51.367",
+      "lon": "7.483"
     },
-    "district": "Lahn-Dill-Kreis",
-    "name": "Haiger",
-    "population": "19378",
-    "state": "Hesse"
+    "district": "Urban districts of Germany",
+    "name": "Hagen",
+    "population": "188814",
+    "state": "North Rhine-Westphalia"
   },
   {
     "area": "76.46",
@@ -7781,6 +7770,17 @@
     "name": "Haigerloch",
     "population": "10669",
     "state": "Baden-Württemberg"
+  },
+  {
+    "area": "106.67",
+    "coords": {
+      "lat": "50.74222",
+      "lon": "8.20389"
+    },
+    "district": "Lahn-Dill-Kreis",
+    "name": "Haiger",
+    "population": "19378",
+    "state": "Hesse"
   },
   {
     "area": "51.57",
@@ -7827,17 +7827,6 @@
     "state": "Saxony-Anhalt"
   },
   {
-    "area": "69.21",
-    "coords": {
-      "lat": "52.067",
-      "lon": "8.367"
-    },
-    "district": "Gütersloh",
-    "name": "Halle",
-    "population": "21640",
-    "state": "North Rhine-Westphalia"
-  },
-  {
     "area": "135.01",
     "coords": {
       "lat": "51.483",
@@ -7857,6 +7846,17 @@
     "district": "Hochsauerlandkreis",
     "name": "Hallenberg",
     "population": "4486",
+    "state": "North Rhine-Westphalia"
+  },
+  {
+    "area": "69.21",
+    "coords": {
+      "lat": "52.067",
+      "lon": "8.367"
+    },
+    "district": "Gütersloh",
+    "name": "Halle",
+    "population": "21640",
     "state": "North Rhine-Westphalia"
   },
   {
@@ -7914,17 +7914,6 @@
     "state": "Lower Saxony"
   },
   {
-    "area": "226.26",
-    "coords": {
-      "lat": "51.683",
-      "lon": "7.817"
-    },
-    "district": "Urban District",
-    "name": "Hamm",
-    "population": "179111",
-    "state": "North Rhine-Westphalia"
-  },
-  {
     "area": "128.89",
     "coords": {
       "lat": "50.117",
@@ -7944,6 +7933,17 @@
     "district": "Wesel",
     "name": "Hamminkeln",
     "population": "26739",
+    "state": "North Rhine-Westphalia"
+  },
+  {
+    "area": "226.26",
+    "coords": {
+      "lat": "51.683",
+      "lon": "7.817"
+    },
+    "district": "Urban District",
+    "name": "Hamm",
+    "population": "179111",
     "state": "North Rhine-Westphalia"
   },
   {
@@ -8233,17 +8233,6 @@
     "state": "Saxony-Anhalt"
   },
   {
-    "area": "31.8938",
-    "coords": {
-      "lat": "54.19611",
-      "lon": "9.09333"
-    },
-    "district": "Dithmarschen",
-    "name": "Heide",
-    "population": "21684",
-    "state": "Schleswig-Holstein"
-  },
-  {
     "area": "58.64",
     "coords": {
       "lat": "49.117",
@@ -8286,6 +8275,17 @@
     "name": "Heidenheim an der Brenz",
     "population": "49526",
     "state": "Baden-Württemberg"
+  },
+  {
+    "area": "31.8938",
+    "coords": {
+      "lat": "54.19611",
+      "lon": "9.09333"
+    },
+    "district": "Dithmarschen",
+    "name": "Heide",
+    "population": "21684",
+    "state": "Schleswig-Holstein"
   },
   {
     "area": "70.88",
@@ -8585,17 +8585,6 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "66.73",
-    "coords": {
-      "lat": "51.44722",
-      "lon": "10.88083"
-    },
-    "district": "Nordhausen",
-    "name": "Heringen",
-    "population": "4737",
-    "state": "Thuringia"
-  },
-  {
     "area": "61.18",
     "coords": {
       "lat": "50.88722",
@@ -8605,6 +8594,17 @@
     "name": "Heringen",
     "population": "7187",
     "state": "Hesse"
+  },
+  {
+    "area": "66.73",
+    "coords": {
+      "lat": "51.44722",
+      "lon": "10.88083"
+    },
+    "district": "Nordhausen",
+    "name": "Heringen",
+    "population": "4737",
+    "state": "Thuringia"
   },
   {
     "area": "30.85",
@@ -8695,17 +8695,6 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "148.48",
-    "coords": {
-      "lat": "51.68306",
-      "lon": "13.23306"
-    },
-    "district": "Elbe-Elster",
-    "name": "Herzberg",
-    "population": "9027",
-    "state": "Brandenburg"
-  },
-  {
     "area": "71.88",
     "coords": {
       "lat": "51.65750",
@@ -8715,6 +8704,17 @@
     "name": "Herzberg am Harz",
     "population": "12889",
     "state": "Lower Saxony"
+  },
+  {
+    "area": "148.48",
+    "coords": {
+      "lat": "51.68306",
+      "lon": "13.23306"
+    },
+    "district": "Elbe-Elster",
+    "name": "Herzberg",
+    "population": "9027",
+    "state": "Brandenburg"
   },
   {
     "area": "47.60",
@@ -8935,17 +8935,6 @@
     "state": "Baden-Württemberg"
   },
   {
-    "area": "58.02",
-    "coords": {
-      "lat": "50.31667",
-      "lon": "11.91667"
-    },
-    "district": "Urban District",
-    "name": "Hof",
-    "population": "45930",
-    "state": "Bavaria"
-  },
-  {
     "area": "86.39",
     "coords": {
       "lat": "51.483",
@@ -8977,6 +8966,17 @@
     "name": "Hofheim, Hesse",
     "population": "39766",
     "state": "Hesse"
+  },
+  {
+    "area": "58.02",
+    "coords": {
+      "lat": "50.31667",
+      "lon": "11.91667"
+    },
+    "district": "Urban District",
+    "name": "Hof",
+    "population": "45930",
+    "state": "Bavaria"
   },
   {
     "area": "48.06",
@@ -9727,17 +9727,6 @@
     "state": "Thuringia"
   },
   {
-    "area": "40.93",
-    "coords": {
-      "lat": "51.59167",
-      "lon": "7.66528"
-    },
-    "district": "Unna",
-    "name": "Kamen",
-    "population": "42971",
-    "state": "North Rhine-Westphalia"
-  },
-  {
     "area": "98.30",
     "coords": {
       "lat": "51.267",
@@ -9747,6 +9736,17 @@
     "name": "Kamenz",
     "population": "14742",
     "state": "Saxony"
+  },
+  {
+    "area": "40.93",
+    "coords": {
+      "lat": "51.59167",
+      "lon": "7.66528"
+    },
+    "district": "Unna",
+    "name": "Kamen",
+    "population": "42971",
+    "state": "North Rhine-Westphalia"
   },
   {
     "area": "63.16",
@@ -10057,15 +10057,15 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "39.58",
+    "area": "40.93",
     "coords": {
-      "lat": "50.62222",
-      "lon": "12.52556"
+      "lat": "49.20389",
+      "lon": "9.98139"
     },
-    "district": "Zwickau",
-    "name": "Kirchberg",
-    "population": "8242",
-    "state": "Saxony"
+    "district": "Schwäbisch Hall",
+    "name": "Kirchberg an der Jagst",
+    "population": "4393",
+    "state": "Baden-Württemberg"
   },
   {
     "area": "18.05",
@@ -10079,26 +10079,15 @@
     "state": "Rhineland-Palatinate"
   },
   {
-    "area": "40.93",
+    "area": "39.58",
     "coords": {
-      "lat": "49.20389",
-      "lon": "9.98139"
+      "lat": "50.62222",
+      "lon": "12.52556"
     },
-    "district": "Schwäbisch Hall",
-    "name": "Kirchberg an der Jagst",
-    "population": "4393",
-    "state": "Baden-Württemberg"
-  },
-  {
-    "area": "39.59",
-    "coords": {
-      "lat": "50.80861",
-      "lon": "7.88333"
-    },
-    "district": "Altenkirchen",
-    "name": "Kirchen",
-    "population": "8498",
-    "state": "Rhineland-Palatinate"
+    "district": "Zwickau",
+    "name": "Kirchberg",
+    "population": "8242",
+    "state": "Saxony"
   },
   {
     "area": "48.51",
@@ -10110,6 +10099,17 @@
     "name": "Kirchenlamitz",
     "population": "3286",
     "state": "Bavaria"
+  },
+  {
+    "area": "39.59",
+    "coords": {
+      "lat": "50.80861",
+      "lon": "7.88333"
+    },
+    "district": "Altenkirchen",
+    "name": "Kirchen",
+    "population": "8498",
+    "state": "Rhineland-Palatinate"
   },
   {
     "area": "90.92",
@@ -10596,17 +10596,6 @@
     "state": "Lower Saxony"
   },
   {
-    "area": "26.93",
-    "coords": {
-      "lat": "50.91889",
-      "lon": "14.07139"
-    },
-    "district": "Sächsische Schweiz-Osterzgebirge",
-    "name": "Königstein",
-    "population": "2089",
-    "state": "Saxony"
-  },
-  {
     "area": "25.1",
     "coords": {
       "lat": "50.183",
@@ -10616,6 +10605,17 @@
     "name": "Königstein im Taunus",
     "population": "16648",
     "state": "Hesse"
+  },
+  {
+    "area": "26.93",
+    "coords": {
+      "lat": "50.91889",
+      "lon": "14.07139"
+    },
+    "district": "Sächsische Schweiz-Osterzgebirge",
+    "name": "Königstein",
+    "population": "2089",
+    "state": "Saxony"
   },
   {
     "area": "76.19",
@@ -10783,6 +10783,17 @@
     "state": "Hesse"
   },
   {
+    "area": "84.37",
+    "coords": {
+      "lat": "48.667",
+      "lon": "12.667"
+    },
+    "district": "Dingolfing-Landau",
+    "name": "Landau an der Isar",
+    "population": "13390",
+    "state": "Bavaria"
+  },
+  {
     "area": "82.94",
     "coords": {
       "lat": "49.200",
@@ -10794,14 +10805,14 @@
     "state": "Rhineland-Palatinate"
   },
   {
-    "area": "84.37",
+    "area": "57.89",
     "coords": {
-      "lat": "48.667",
-      "lon": "12.667"
+      "lat": "48.04778",
+      "lon": "10.89889"
     },
-    "district": "Dingolfing-Landau",
-    "name": "Landau an der Isar",
-    "population": "13390",
+    "district": "Landsberg am Lech",
+    "name": "Landsberg am Lech",
+    "population": "29132",
     "state": "Bavaria"
   },
   {
@@ -10814,17 +10825,6 @@
     "name": "Landsberg",
     "population": "15054",
     "state": "Saxony-Anhalt"
-  },
-  {
-    "area": "57.89",
-    "coords": {
-      "lat": "48.04778",
-      "lon": "10.89889"
-    },
-    "district": "Landsberg am Lech",
-    "name": "Landsberg am Lech",
-    "population": "29132",
-    "state": "Bavaria"
   },
   {
     "area": "65.7",
@@ -11025,17 +11025,6 @@
     "state": "Bavaria"
   },
   {
-    "area": "35.31",
-    "coords": {
-      "lat": "47.933",
-      "lon": "12.933"
-    },
-    "district": "Berchtesgadener Land",
-    "name": "Laufen",
-    "population": "7192",
-    "state": "Bavaria"
-  },
-  {
     "area": "23.58",
     "coords": {
       "lat": "47.56556",
@@ -11045,6 +11034,17 @@
     "name": "Laufenburg",
     "population": "9029",
     "state": "Baden-Württemberg"
+  },
+  {
+    "area": "35.31",
+    "coords": {
+      "lat": "47.933",
+      "lon": "12.933"
+    },
+    "district": "Berchtesgadener Land",
+    "name": "Laufen",
+    "population": "7192",
+    "state": "Bavaria"
   },
   {
     "area": "22.63",
@@ -11355,17 +11355,6 @@
     "state": "Baden-Württemberg"
   },
   {
-    "area": "28.66",
-    "coords": {
-      "lat": "50.550",
-      "lon": "8.367"
-    },
-    "district": "Lahn-Dill-Kreis",
-    "name": "Leun",
-    "population": "5728",
-    "state": "Hesse"
-  },
-  {
     "area": "83.41",
     "coords": {
       "lat": "51.317",
@@ -11375,6 +11364,17 @@
     "name": "Leuna",
     "population": "13969",
     "state": "Saxony-Anhalt"
+  },
+  {
+    "area": "28.66",
+    "coords": {
+      "lat": "50.550",
+      "lon": "8.367"
+    },
+    "district": "Lahn-Dill-Kreis",
+    "name": "Leun",
+    "population": "5728",
+    "state": "Hesse"
   },
   {
     "area": "57.17",
@@ -11419,17 +11419,6 @@
     "name": "Leverkusen",
     "population": "163838",
     "state": "North Rhine-Westphalia"
-  },
-  {
-    "area": "77.64",
-    "coords": {
-      "lat": "50.52167",
-      "lon": "8.82083"
-    },
-    "district": "Gießen",
-    "name": "Lich",
-    "population": "13650",
-    "state": "Hesse"
   },
   {
     "area": "27.62",
@@ -11496,6 +11485,17 @@
     "name": "Lichtenstein",
     "population": "11285",
     "state": "Saxony"
+  },
+  {
+    "area": "77.64",
+    "coords": {
+      "lat": "50.52167",
+      "lon": "8.82083"
+    },
+    "district": "Gießen",
+    "name": "Lich",
+    "population": "13650",
+    "state": "Hesse"
   },
   {
     "area": "48.87",
@@ -11575,17 +11575,6 @@
     "state": "Bavaria"
   },
   {
-    "area": "22.77",
-    "coords": {
-      "lat": "50.533",
-      "lon": "8.650"
-    },
-    "district": "Gießen",
-    "name": "Linden",
-    "population": "12967",
-    "state": "Hesse"
-  },
-  {
     "area": "11.85",
     "coords": {
       "lat": "47.600",
@@ -11605,6 +11594,17 @@
     "district": "Bergstraße",
     "name": "Lindenfels",
     "population": "5124",
+    "state": "Hesse"
+  },
+  {
+    "area": "22.77",
+    "coords": {
+      "lat": "50.533",
+      "lon": "8.650"
+    },
+    "district": "Gießen",
+    "name": "Linden",
+    "population": "12967",
     "state": "Hesse"
   },
   {
@@ -11762,17 +11762,6 @@
     "state": "Hesse"
   },
   {
-    "area": "12.99",
-    "coords": {
-      "lat": "51.09500",
-      "lon": "12.33528"
-    },
-    "district": "Altenburger Land",
-    "name": "Lucka",
-    "population": "3714",
-    "state": "Thuringia"
-  },
-  {
     "area": "206.38",
     "coords": {
       "lat": "51.85000",
@@ -11782,6 +11771,17 @@
     "name": "Luckau",
     "population": "9582",
     "state": "Brandenburg"
+  },
+  {
+    "area": "12.99",
+    "coords": {
+      "lat": "51.09500",
+      "lon": "12.33528"
+    },
+    "district": "Altenburger Land",
+    "name": "Lucka",
+    "population": "3714",
+    "state": "Thuringia"
   },
   {
     "area": "46.75",
@@ -12411,17 +12411,6 @@
     "state": "Bavaria"
   },
   {
-    "area": "87.69",
-    "coords": {
-      "lat": "51.667",
-      "lon": "7.117"
-    },
-    "district": "Recklinghausen",
-    "name": "Marl",
-    "population": "83941",
-    "state": "North Rhine-Westphalia"
-  },
-  {
     "area": "139.81",
     "coords": {
       "lat": "54.133",
@@ -12431,6 +12420,17 @@
     "name": "Marlow",
     "population": "4563",
     "state": "Mecklenburg-Western Pomerania"
+  },
+  {
+    "area": "87.69",
+    "coords": {
+      "lat": "51.667",
+      "lon": "7.117"
+    },
+    "district": "Recklinghausen",
+    "name": "Marl",
+    "population": "83941",
+    "state": "North Rhine-Westphalia"
   },
   {
     "area": "4.83",
@@ -12917,17 +12917,6 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "69.35",
-    "coords": {
-      "lat": "48.833",
-      "lon": "10.833"
-    },
-    "district": "Donau-Ries",
-    "name": "Monheim",
-    "population": "5093",
-    "state": "Bavaria"
-  },
-  {
     "area": "23.1",
     "coords": {
       "lat": "51.100",
@@ -12937,6 +12926,17 @@
     "name": "Monheim am Rhein",
     "population": "40645",
     "state": "North Rhine-Westphalia"
+  },
+  {
+    "area": "69.35",
+    "coords": {
+      "lat": "48.833",
+      "lon": "10.833"
+    },
+    "district": "Donau-Ries",
+    "name": "Monheim",
+    "population": "5093",
+    "state": "Bavaria"
   },
   {
     "area": "94.62",
@@ -13302,17 +13302,6 @@
     "state": "Baden-Württemberg"
   },
   {
-    "area": "302.89",
-    "coords": {
-      "lat": "51.96250",
-      "lon": "7.62556"
-    },
-    "district": "Urban district",
-    "name": "Münster",
-    "population": "314319",
-    "state": "North Rhine-Westphalia"
-  },
-  {
     "area": "27.78",
     "coords": {
       "lat": "50.24750",
@@ -13322,6 +13311,17 @@
     "name": "Münstermaifeld",
     "population": "3449",
     "state": "Rhineland-Palatinate"
+  },
+  {
+    "area": "302.89",
+    "coords": {
+      "lat": "51.96250",
+      "lon": "7.62556"
+    },
+    "district": "Urban district",
+    "name": "Münster",
+    "population": "314319",
+    "state": "North Rhine-Westphalia"
   },
   {
     "area": "31.63",
@@ -13731,17 +13731,6 @@
     "state": "Mecklenburg-Western Pomerania"
   },
   {
-    "area": "66.26",
-    "coords": {
-      "lat": "50.867",
-      "lon": "9.333"
-    },
-    "district": "Schwalm-Eder-Kreis",
-    "name": "Neukirchen",
-    "population": "6986",
-    "state": "Hesse"
-  },
-  {
     "area": "43.48",
     "coords": {
       "lat": "51.44167",
@@ -13753,6 +13742,17 @@
     "state": "North Rhine-Westphalia"
   },
   {
+    "area": "66.26",
+    "coords": {
+      "lat": "50.867",
+      "lon": "9.333"
+    },
+    "district": "Schwalm-Eder-Kreis",
+    "name": "Neukirchen",
+    "population": "6986",
+    "state": "Hesse"
+  },
+  {
     "area": "27.49",
     "coords": {
       "lat": "53.867",
@@ -13762,17 +13762,6 @@
     "name": "Neukloster",
     "population": "3925",
     "state": "Mecklenburg-Western Pomerania"
-  },
-  {
-    "area": "8.64",
-    "coords": {
-      "lat": "51.08000",
-      "lon": "11.24778"
-    },
-    "district": "Weimarer Land",
-    "name": "Neumark",
-    "population": "494",
-    "state": "Thuringia"
   },
   {
     "area": "79.03",
@@ -13795,6 +13784,17 @@
     "name": "Neumarkt-Sankt Veit",
     "population": "6243",
     "state": "Bavaria"
+  },
+  {
+    "area": "8.64",
+    "coords": {
+      "lat": "51.08000",
+      "lon": "11.24778"
+    },
+    "district": "Weimarer Land",
+    "name": "Neumark",
+    "population": "494",
+    "state": "Thuringia"
   },
   {
     "area": "71.57",
@@ -13861,28 +13861,6 @@
     "name": "Neuss",
     "population": "153796",
     "state": "North Rhine-Westphalia"
-  },
-  {
-    "area": "75.43",
-    "coords": {
-      "lat": "52.86667",
-      "lon": "12.43306"
-    },
-    "district": "Ostprignitz-Ruppin",
-    "name": "Neustadt",
-    "population": "3452",
-    "state": "Brandenburg"
-  },
-  {
-    "area": "56.88",
-    "coords": {
-      "lat": "50.850",
-      "lon": "9.117"
-    },
-    "district": "Marburg-Biedenkopf",
-    "name": "Neustadt",
-    "population": "9586",
-    "state": "Hesse"
   },
   {
     "area": "93.56",
@@ -14004,6 +13982,28 @@
     "state": "Mecklenburg-Western Pomerania"
   },
   {
+    "area": "75.43",
+    "coords": {
+      "lat": "52.86667",
+      "lon": "12.43306"
+    },
+    "district": "Ostprignitz-Ruppin",
+    "name": "Neustadt",
+    "population": "3452",
+    "state": "Brandenburg"
+  },
+  {
+    "area": "56.88",
+    "coords": {
+      "lat": "50.850",
+      "lon": "9.117"
+    },
+    "district": "Marburg-Biedenkopf",
+    "name": "Neustadt",
+    "population": "9586",
+    "state": "Hesse"
+  },
+  {
     "area": "138.15",
     "coords": {
       "lat": "53.36472",
@@ -14059,17 +14059,6 @@
     "state": "Bavaria"
   },
   {
-    "area": "118.34",
-    "coords": {
-      "lat": "50.41278",
-      "lon": "9.00917"
-    },
-    "district": "Wetteraukreis",
-    "name": "Nidda",
-    "population": "17285",
-    "state": "Hesse"
-  },
-  {
     "area": "40.21",
     "coords": {
       "lat": "50.29833",
@@ -14078,6 +14067,17 @@
     "district": "Wetteraukreis",
     "name": "Niddatal",
     "population": "9786",
+    "state": "Hesse"
+  },
+  {
+    "area": "118.34",
+    "coords": {
+      "lat": "50.41278",
+      "lon": "9.00917"
+    },
+    "district": "Wetteraukreis",
+    "name": "Nidda",
+    "population": "17285",
     "state": "Hesse"
   },
   {
@@ -14202,17 +14202,6 @@
     "state": "Brandenburg"
   },
   {
-    "area": "79.10",
-    "coords": {
-      "lat": "51.817",
-      "lon": "11.750"
-    },
-    "district": "Salzlandkreis",
-    "name": "Nienburg",
-    "population": "6193",
-    "state": "Saxony-Anhalt"
-  },
-  {
     "area": "64.45",
     "coords": {
       "lat": "52.64111",
@@ -14222,6 +14211,17 @@
     "name": "Nienburg",
     "population": "31550",
     "state": "Lower Saxony"
+  },
+  {
+    "area": "79.10",
+    "coords": {
+      "lat": "51.817",
+      "lon": "11.750"
+    },
+    "district": "Salzlandkreis",
+    "name": "Nienburg",
+    "population": "6193",
+    "state": "Saxony-Anhalt"
   },
   {
     "area": "19.34",
@@ -14257,17 +14257,6 @@
     "state": "Bavaria"
   },
   {
-    "area": "106.33",
-    "coords": {
-      "lat": "53.59667",
-      "lon": "7.20556"
-    },
-    "district": "Aurich",
-    "name": "Norden",
-    "population": "25060",
-    "state": "Lower Saxony"
-  },
-  {
     "area": "87.32",
     "coords": {
       "lat": "53.500",
@@ -14276,6 +14265,17 @@
     "district": "Wesermarsch",
     "name": "Nordenham",
     "population": "26193",
+    "state": "Lower Saxony"
+  },
+  {
+    "area": "106.33",
+    "coords": {
+      "lat": "53.59667",
+      "lon": "7.20556"
+    },
+    "district": "Aurich",
+    "name": "Norden",
+    "population": "25060",
     "state": "Lower Saxony"
   },
   {
@@ -14807,17 +14807,6 @@
     "state": "Bavaria"
   },
   {
-    "area": "102.96",
-    "coords": {
-      "lat": "53.14389",
-      "lon": "8.21389"
-    },
-    "district": "Urban district",
-    "name": "Oldenburg",
-    "population": "168210",
-    "state": "Lower Saxony"
-  },
-  {
     "area": "39.67",
     "coords": {
       "lat": "54.30000",
@@ -14827,6 +14816,17 @@
     "name": "Oldenburg in Holstein",
     "population": "9833",
     "state": "Schleswig-Holstein"
+  },
+  {
+    "area": "102.96",
+    "coords": {
+      "lat": "53.14389",
+      "lon": "8.21389"
+    },
+    "district": "Urban district",
+    "name": "Oldenburg",
+    "population": "168210",
+    "state": "Lower Saxony"
   },
   {
     "area": "52.43",
@@ -15511,17 +15511,6 @@
     "state": "Mecklenburg-Western Pomerania"
   },
   {
-    "area": "22.69",
-    "coords": {
-      "lat": "50.77944",
-      "lon": "10.89889"
-    },
-    "district": "Ilm-Kreis",
-    "name": "Plaue",
-    "population": "1961",
-    "state": "Thuringia"
-  },
-  {
     "area": "102.11",
     "coords": {
       "lat": "50.483",
@@ -15531,6 +15520,17 @@
     "name": "Plauen",
     "population": "64931",
     "state": "Saxony"
+  },
+  {
+    "area": "22.69",
+    "coords": {
+      "lat": "50.77944",
+      "lon": "10.89889"
+    },
+    "district": "Ilm-Kreis",
+    "name": "Plaue",
+    "population": "1961",
+    "state": "Thuringia"
   },
   {
     "area": "96.29",
@@ -16127,17 +16127,6 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "65.15",
-    "coords": {
-      "lat": "48.967",
-      "lon": "13.133"
-    },
-    "district": "Regen",
-    "name": "Regen",
-    "population": "11001",
-    "state": "Bavaria"
-  },
-  {
     "area": "80.76",
     "coords": {
       "lat": "49.017",
@@ -16146,6 +16135,17 @@
     "district": "Urban district",
     "name": "Regensburg",
     "population": "152610",
+    "state": "Bavaria"
+  },
+  {
+    "area": "65.15",
+    "coords": {
+      "lat": "48.967",
+      "lon": "13.133"
+    },
+    "district": "Regen",
+    "name": "Regen",
+    "population": "11001",
     "state": "Bavaria"
   },
   {
@@ -16204,17 +16204,6 @@
     "state": "Hesse"
   },
   {
-    "area": "62.59",
-    "coords": {
-      "lat": "51.14167",
-      "lon": "14.80000"
-    },
-    "district": "Görlitz",
-    "name": "Reichenbach",
-    "population": "4957",
-    "state": "Saxony"
-  },
-  {
     "area": "34.46",
     "coords": {
       "lat": "50.617",
@@ -16223,6 +16212,17 @@
     "district": "Vogtlandkreis",
     "name": "Reichenbach im Vogtland",
     "population": "20625",
+    "state": "Saxony"
+  },
+  {
+    "area": "62.59",
+    "coords": {
+      "lat": "51.14167",
+      "lon": "14.80000"
+    },
+    "district": "Görlitz",
+    "name": "Reichenbach",
+    "population": "4957",
     "state": "Saxony"
   },
   {
@@ -16787,14 +16787,14 @@
     "state": "Lower Saxony"
   },
   {
-    "area": "96.25",
+    "area": "41.68",
     "coords": {
-      "lat": "49.24611",
-      "lon": "11.09111"
+      "lat": "49.383",
+      "lon": "10.183"
     },
-    "district": "Roth",
-    "name": "Roth",
-    "population": "25593",
+    "district": "Ansbach",
+    "name": "Rothenburg ob der Tauber",
+    "population": "11243",
     "state": "Bavaria"
   },
   {
@@ -16809,17 +16809,6 @@
     "state": "Saxony"
   },
   {
-    "area": "41.68",
-    "coords": {
-      "lat": "49.383",
-      "lon": "10.183"
-    },
-    "district": "Ansbach",
-    "name": "Rothenburg ob der Tauber",
-    "population": "11243",
-    "state": "Bavaria"
-  },
-  {
     "area": "12.07",
     "coords": {
       "lat": "49.883",
@@ -16828,6 +16817,17 @@
     "district": "Main-Spessart",
     "name": "Rothenfels",
     "population": "1013",
+    "state": "Bavaria"
+  },
+  {
+    "area": "96.25",
+    "coords": {
+      "lat": "49.24611",
+      "lon": "11.09111"
+    },
+    "district": "Roth",
+    "name": "Roth",
+    "population": "25593",
     "state": "Bavaria"
   },
   {
@@ -16897,17 +16897,6 @@
     "state": "Thuringia"
   },
   {
-    "area": "38.51",
-    "coords": {
-      "lat": "50.89194",
-      "lon": "10.36667"
-    },
-    "district": "Wartburgkreis",
-    "name": "Ruhla",
-    "population": "5540",
-    "state": "Thuringia"
-  },
-  {
     "area": "37.12",
     "coords": {
       "lat": "51.46667",
@@ -16917,6 +16906,17 @@
     "name": "Ruhland",
     "population": "3672",
     "state": "Brandenburg"
+  },
+  {
+    "area": "38.51",
+    "coords": {
+      "lat": "50.89194",
+      "lon": "10.36667"
+    },
+    "district": "Wartburgkreis",
+    "name": "Ruhla",
+    "population": "5540",
+    "state": "Thuringia"
   },
   {
     "area": "43.69",
@@ -17249,17 +17249,6 @@
     "state": "Baden-Württemberg"
   },
   {
-    "area": "22.93",
-    "coords": {
-      "lat": "50.150",
-      "lon": "7.717"
-    },
-    "district": "Rhein-Hunsrück-Kreis",
-    "name": "Sankt Goar",
-    "population": "2731",
-    "state": "Rhineland-Palatinate"
-  },
-  {
     "area": "7.00",
     "coords": {
       "lat": "50.15472",
@@ -17268,6 +17257,17 @@
     "district": "Rhein-Lahn-Kreis",
     "name": "Sankt Goarshausen",
     "population": "1280",
+    "state": "Rhineland-Palatinate"
+  },
+  {
+    "area": "22.93",
+    "coords": {
+      "lat": "50.150",
+      "lon": "7.717"
+    },
+    "district": "Rhein-Hunsrück-Kreis",
+    "name": "Sankt Goar",
+    "population": "2731",
     "state": "Rhineland-Palatinate"
   },
   {
@@ -18084,17 +18084,6 @@
     "state": "Baden-Württemberg"
   },
   {
-    "area": "22.49",
-    "coords": {
-      "lat": "49.43556",
-      "lon": "8.80917"
-    },
-    "district": "Rhein-Neckar-Kreis",
-    "name": "Schönau",
-    "population": "4438",
-    "state": "Baden-Württemberg"
-  },
-  {
     "area": "14.70",
     "coords": {
       "lat": "47.78667",
@@ -18103,6 +18092,17 @@
     "district": "Lörrach",
     "name": "Schönau im Schwarzwald",
     "population": "2420",
+    "state": "Baden-Württemberg"
+  },
+  {
+    "area": "22.49",
+    "coords": {
+      "lat": "49.43556",
+      "lon": "8.80917"
+    },
+    "district": "Rhein-Neckar-Kreis",
+    "name": "Schönau",
+    "population": "4438",
     "state": "Baden-Württemberg"
   },
   {
@@ -18293,17 +18293,6 @@
     "state": "Saxony"
   },
   {
-    "area": "62.37",
-    "coords": {
-      "lat": "50.167",
-      "lon": "12.133"
-    },
-    "district": "Wunsiedel im Fichtelgebirge",
-    "name": "Selb",
-    "population": "15128",
-    "state": "Bavaria"
-  },
-  {
     "area": "27.70",
     "coords": {
       "lat": "50.317",
@@ -18312,6 +18301,17 @@
     "district": "Hof",
     "name": "Selbitz",
     "population": "4294",
+    "state": "Bavaria"
+  },
+  {
+    "area": "62.37",
+    "coords": {
+      "lat": "50.167",
+      "lon": "12.133"
+    },
+    "district": "Wunsiedel im Fichtelgebirge",
+    "name": "Selb",
+    "population": "15128",
     "state": "Bavaria"
   },
   {
@@ -18348,17 +18348,6 @@
     "state": "Rhineland-Palatinate"
   },
   {
-    "area": "25.17",
-    "coords": {
-      "lat": "48.317",
-      "lon": "10.067"
-    },
-    "district": "Neu-Ulm",
-    "name": "Senden",
-    "population": "22336",
-    "state": "Bavaria"
-  },
-  {
     "area": "96.66",
     "coords": {
       "lat": "51.84389",
@@ -18368,6 +18357,17 @@
     "name": "Sendenhorst",
     "population": "13157",
     "state": "North Rhine-Westphalia"
+  },
+  {
+    "area": "25.17",
+    "coords": {
+      "lat": "48.317",
+      "lon": "10.067"
+    },
+    "district": "Neu-Ulm",
+    "name": "Senden",
+    "population": "22336",
+    "state": "Bavaria"
   },
   {
     "area": "127.56",
@@ -18853,17 +18853,6 @@
     "state": "Saxony-Anhalt"
   },
   {
-    "area": "19.52",
-    "coords": {
-      "lat": "49.417",
-      "lon": "11.017"
-    },
-    "district": "Fürth",
-    "name": "Stein",
-    "population": "13996",
-    "state": "Bavaria"
-  },
-  {
     "area": "26.35",
     "coords": {
       "lat": "50.43333",
@@ -18886,17 +18875,6 @@
     "state": "Hesse"
   },
   {
-    "area": "4.4",
-    "coords": {
-      "lat": "50.167",
-      "lon": "8.567"
-    },
-    "district": "Hochtaunuskreis",
-    "name": "Steinbach",
-    "population": "10682",
-    "state": "Hesse"
-  },
-  {
     "area": "76.72",
     "coords": {
       "lat": "50.70056",
@@ -18906,6 +18884,17 @@
     "name": "Steinbach-Hallenberg",
     "population": "9238",
     "state": "Thuringia"
+  },
+  {
+    "area": "4.4",
+    "coords": {
+      "lat": "50.167",
+      "lon": "8.567"
+    },
+    "district": "Hochtaunuskreis",
+    "name": "Steinbach",
+    "population": "10682",
+    "state": "Hesse"
   },
   {
     "area": "111.42",
@@ -18919,6 +18908,17 @@
     "state": "North Rhine-Westphalia"
   },
   {
+    "area": "23.19",
+    "coords": {
+      "lat": "48.96667",
+      "lon": "9.28333"
+    },
+    "district": "Ludwigsburg",
+    "name": "Steinheim an der Murr",
+    "population": "12220",
+    "state": "Baden-Württemberg"
+  },
+  {
     "area": "75.68",
     "coords": {
       "lat": "51.86583",
@@ -18930,15 +18930,15 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "23.19",
+    "area": "19.52",
     "coords": {
-      "lat": "48.96667",
-      "lon": "9.28333"
+      "lat": "49.417",
+      "lon": "11.017"
     },
-    "district": "Ludwigsburg",
-    "name": "Steinheim an der Murr",
-    "population": "12220",
-    "state": "Baden-Württemberg"
+    "district": "Fürth",
+    "name": "Stein",
+    "population": "13996",
+    "state": "Bavaria"
   },
   {
     "area": "268.02",
@@ -19172,17 +19172,6 @@
     "state": "Baden-Württemberg"
   },
   {
-    "area": "16.12",
-    "coords": {
-      "lat": "49.283",
-      "lon": "7.067"
-    },
-    "district": "Saarbrücken",
-    "name": "Sulzbach",
-    "population": "16468",
-    "state": "Saarland"
-  },
-  {
     "area": "53.19",
     "coords": {
       "lat": "49.500",
@@ -19192,6 +19181,17 @@
     "name": "Sulzbach-Rosenberg",
     "population": "19414",
     "state": "Bavaria"
+  },
+  {
+    "area": "16.12",
+    "coords": {
+      "lat": "49.283",
+      "lon": "7.067"
+    },
+    "district": "Saarbrücken",
+    "name": "Sulzbach",
+    "population": "16468",
+    "state": "Saarland"
   },
   {
     "area": "22.73",
@@ -19722,17 +19722,6 @@
     "state": "Bavaria"
   },
   {
-    "area": "43.74",
-    "coords": {
-      "lat": "50.54250",
-      "lon": "12.30222"
-    },
-    "district": "Vogtlandkreis",
-    "name": "Treuen",
-    "population": "7894",
-    "state": "Saxony"
-  },
-  {
     "area": "211.33",
     "coords": {
       "lat": "52.09722",
@@ -19742,6 +19731,17 @@
     "name": "Treuenbrietzen",
     "population": "7405",
     "state": "Brandenburg"
+  },
+  {
+    "area": "43.74",
+    "coords": {
+      "lat": "50.54250",
+      "lon": "12.30222"
+    },
+    "district": "Vogtlandkreis",
+    "name": "Treuen",
+    "population": "7894",
+    "state": "Saxony"
   },
   {
     "area": "33.32",
@@ -19964,17 +19964,6 @@
     "state": "Baden-Württemberg"
   },
   {
-    "area": "118.69",
-    "coords": {
-      "lat": "48.400",
-      "lon": "9.983"
-    },
-    "district": "Stadtkreis",
-    "name": "Ulm",
-    "population": "126329",
-    "state": "Baden-Württemberg"
-  },
-  {
     "area": "28.62",
     "coords": {
       "lat": "50.2086889",
@@ -19984,6 +19973,17 @@
     "name": "Ulmen",
     "population": "3335",
     "state": "Rhineland-Palatinate"
+  },
+  {
+    "area": "118.69",
+    "coords": {
+      "lat": "48.400",
+      "lon": "9.983"
+    },
+    "district": "Stadtkreis",
+    "name": "Ulm",
+    "population": "126329",
+    "state": "Baden-Württemberg"
   },
   {
     "area": "65.61",
@@ -20580,17 +20580,6 @@
     "state": "Baden-Württemberg"
   },
   {
-    "area": "25.07",
-    "coords": {
-      "lat": "50.87583",
-      "lon": "12.59972"
-    },
-    "district": "Zwickau",
-    "name": "Waldenburg",
-    "population": "4012",
-    "state": "Saxony"
-  },
-  {
     "area": "31.55",
     "coords": {
       "lat": "49.183",
@@ -20600,6 +20589,17 @@
     "name": "Waldenburg",
     "population": "3094",
     "state": "Baden-Württemberg"
+  },
+  {
+    "area": "25.07",
+    "coords": {
+      "lat": "50.87583",
+      "lon": "12.59972"
+    },
+    "district": "Zwickau",
+    "name": "Waldenburg",
+    "population": "4012",
+    "state": "Saxony"
   },
   {
     "area": "60.40",
@@ -20635,17 +20635,6 @@
     "state": "Hesse"
   },
   {
-    "area": "48.47",
-    "coords": {
-      "lat": "48.100",
-      "lon": "7.967"
-    },
-    "district": "Emmendingen",
-    "name": "Waldkirch",
-    "population": "21809",
-    "state": "Baden-Württemberg"
-  },
-  {
     "area": "80.06",
     "coords": {
       "lat": "48.7304778",
@@ -20655,6 +20644,17 @@
     "name": "Waldkirchen",
     "population": "10534",
     "state": "Bavaria"
+  },
+  {
+    "area": "48.47",
+    "coords": {
+      "lat": "48.100",
+      "lon": "7.967"
+    },
+    "district": "Emmendingen",
+    "name": "Waldkirch",
+    "population": "21809",
+    "state": "Baden-Württemberg"
   },
   {
     "area": "21.53",
@@ -20811,17 +20811,6 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "158.39",
-    "coords": {
-      "lat": "53.517",
-      "lon": "12.683"
-    },
-    "district": "Mecklenburgische Seenplatte",
-    "name": "Waren",
-    "population": "21061",
-    "state": "Mecklenburg-Western Pomerania"
-  },
-  {
     "area": "176.75",
     "coords": {
       "lat": "51.95389",
@@ -20831,6 +20820,17 @@
     "name": "Warendorf",
     "population": "37226",
     "state": "North Rhine-Westphalia"
+  },
+  {
+    "area": "158.39",
+    "coords": {
+      "lat": "53.517",
+      "lon": "12.683"
+    },
+    "district": "Mecklenburgische Seenplatte",
+    "name": "Waren",
+    "population": "21061",
+    "state": "Mecklenburg-Western Pomerania"
   },
   {
     "area": "44.26",
@@ -21295,17 +21295,6 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "76.24",
-    "coords": {
-      "lat": "51.55000",
-      "lon": "7.92000"
-    },
-    "district": "Soest",
-    "name": "Werl",
-    "population": "30772",
-    "state": "North Rhine-Westphalia"
-  },
-  {
     "area": "63.75",
     "coords": {
       "lat": "52.850",
@@ -21315,6 +21304,17 @@
     "name": "Werlte",
     "population": "10260",
     "state": "Lower Saxony"
+  },
+  {
+    "area": "76.24",
+    "coords": {
+      "lat": "51.55000",
+      "lon": "7.92000"
+    },
+    "district": "Soest",
+    "name": "Werl",
+    "population": "30772",
+    "state": "North Rhine-Westphalia"
   },
   {
     "area": "74.66",
@@ -21339,17 +21339,6 @@
     "state": "Baden-Württemberg"
   },
   {
-    "area": "76.08",
-    "coords": {
-      "lat": "51.667",
-      "lon": "7.617"
-    },
-    "district": "Unna",
-    "name": "Werne",
-    "population": "29662",
-    "state": "North Rhine-Westphalia"
-  },
-  {
     "area": "116.34",
     "coords": {
       "lat": "52.63306",
@@ -21359,6 +21348,17 @@
     "name": "Werneuchen",
     "population": "8994",
     "state": "Brandenburg"
+  },
+  {
+    "area": "76.08",
+    "coords": {
+      "lat": "51.667",
+      "lon": "7.617"
+    },
+    "district": "Unna",
+    "name": "Werne",
+    "population": "29662",
+    "state": "North Rhine-Westphalia"
   },
   {
     "area": "170.03",
@@ -21482,17 +21482,6 @@
     "state": "Lower Saxony"
   },
   {
-    "area": "31.47",
-    "coords": {
-      "lat": "51.38806",
-      "lon": "7.39500"
-    },
-    "district": "Ennepe-Ruhr-Kreis",
-    "name": "Wetter",
-    "population": "27441",
-    "state": "North Rhine-Westphalia"
-  },
-  {
     "area": "104.56",
     "coords": {
       "lat": "50.88333",
@@ -21502,6 +21491,17 @@
     "name": "Wetter (Hessen)",
     "population": "8718",
     "state": "Hesse"
+  },
+  {
+    "area": "31.47",
+    "coords": {
+      "lat": "51.38806",
+      "lon": "7.39500"
+    },
+    "district": "Ennepe-Ruhr-Kreis",
+    "name": "Wetter",
+    "population": "27441",
+    "state": "North Rhine-Westphalia"
   },
   {
     "area": "126.94",
@@ -21812,15 +21812,15 @@
     "state": "Rhineland-Palatinate"
   },
   {
-    "area": "72.40",
+    "area": "50.44",
     "coords": {
-      "lat": "51.43333",
-      "lon": "7.33333"
+      "lat": "53.000",
+      "lon": "11.750"
     },
-    "district": "Ennepe-Ruhr-Kreis",
-    "name": "Witten",
-    "population": "96563",
-    "state": "North Rhine-Westphalia"
+    "district": "Prignitz",
+    "name": "Wittenberge",
+    "population": "17015",
+    "state": "Brandenburg"
   },
   {
     "area": "240.32",
@@ -21834,17 +21834,6 @@
     "state": "Saxony-Anhalt"
   },
   {
-    "area": "50.44",
-    "coords": {
-      "lat": "53.000",
-      "lon": "11.750"
-    },
-    "district": "Prignitz",
-    "name": "Wittenberge",
-    "population": "17015",
-    "state": "Brandenburg"
-  },
-  {
     "area": "80.00",
     "coords": {
       "lat": "53.500",
@@ -21854,6 +21843,17 @@
     "name": "Wittenburg",
     "population": "6313",
     "state": "Mecklenburg-Western Pomerania"
+  },
+  {
+    "area": "72.40",
+    "coords": {
+      "lat": "51.43333",
+      "lon": "7.33333"
+    },
+    "district": "Ennepe-Ruhr-Kreis",
+    "name": "Witten",
+    "population": "96563",
+    "state": "North Rhine-Westphalia"
   },
   {
     "area": "62.24",
@@ -22296,17 +22296,6 @@
     "state": "Saxony-Anhalt"
   },
   {
-    "area": "44.98",
-    "coords": {
-      "lat": "50.02639",
-      "lon": "7.18361"
-    },
-    "district": "Cochem-Zell",
-    "name": "Zell",
-    "population": "4099",
-    "state": "Rhineland-Palatinate"
-  },
-  {
     "area": "36.43",
     "coords": {
       "lat": "48.34667",
@@ -22338,6 +22327,17 @@
     "name": "Zella-Mehlis",
     "population": "12863",
     "state": "Thuringia"
+  },
+  {
+    "area": "44.98",
+    "coords": {
+      "lat": "50.02639",
+      "lon": "7.18361"
+    },
+    "district": "Cochem-Zell",
+    "name": "Zell",
+    "population": "4099",
+    "state": "Rhineland-Palatinate"
   },
   {
     "area": "467.65",

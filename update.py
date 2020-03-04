@@ -110,7 +110,9 @@ class App(BasicParser):
             else:
                 print("Couldn't get info", file=sys.stderr)
 
-        output = sorted(self.data, key=lambda k: k['name'])
+        # As there can be other cities with the exact same name in a single
+        # state, sorting the list by just the city name is not appropriate
+        output = sorted(self.data, key=lambda k: '%s|%s' % (k['name'], k['state']))
         print(json.dumps(output, ensure_ascii=False, sort_keys=True))
 
 if __name__ == '__main__':
