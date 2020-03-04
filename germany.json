@@ -2605,13 +2605,13 @@
     "state": "Rhineland-Palatinate"
   },
   {
-    "area": "13.58",
+    "area": "133.58",
     "coords": {
       "lat": "49.650",
       "lon": "7.183"
     },
     "district": "Birkenfeld",
-    "name": "Birkenfeld",
+    "name": "Birkenfeld District",
     "population": "6984",
     "state": "Rhineland-Palatinate"
   },
@@ -7948,8 +7948,8 @@
   {
     "area": "76.49",
     "coords": {
-      "lat": "50.13333",
-      "lon": "8.91667"
+      "lat": "50.13278",
+      "lon": "8.91694"
     },
     "district": "Main-Kinzig-Kreis",
     "name": "Hanau",
@@ -13163,7 +13163,7 @@
       "lon": "12.52500"
     },
     "district": "Mühldorf am Inn",
-    "name": "Mühldorf a.Inn",
+    "name": "Mühldorf am Inn",
     "population": "20323",
     "state": "Bavaria"
   },
@@ -15390,8 +15390,8 @@
   {
     "area": "98.03",
     "coords": {
-      "lat": "48.90194",
-      "lon": "8.71667"
+      "lat": "48.89500",
+      "lon": "8.70500"
     },
     "district": "Stadtkreis",
     "name": "Pforzheim",
