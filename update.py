@@ -2,11 +2,12 @@
 
 # Germany cities parser
 
-# Script gets list of the Germany cities from Wikipedia and basic information
+# Script gets list of Germany cities from Wikipedia and basic information
 # about them: name, subject, district, population and coordinates.
 # Copyright Andrey Zhidenkov, 2019-2020 (c)
 
 import os
+import re
 import sys
 import json
 import argparse
@@ -69,9 +70,7 @@ class App(BasicParser):
         for th in html.xpath('.//table[contains(@class, "geography")][1]//tr//th'):
             title = th.text_content().strip()
 
-            if title == 'State':
-                info['state'] = get_td(th)
-            elif title == 'District':
+            if title == 'District':
                 info['district'] = get_td(th)
             elif title.startswith('Population'):
                 info['population'] = get_population(th)
@@ -81,6 +80,9 @@ class App(BasicParser):
                 info['area'] = get_area(th)
 
         return info
+
+    def get_state(self, li):
+        return re.search('\(([^()]+)\)$', li.text_content())[1]
 
     def run(self):
         if self.args.url is not None:
@@ -98,6 +100,9 @@ class App(BasicParser):
                 continue
 
             info = self.get_city_info(a1.get('href'))
+            # There are pages that don't contain "State" on it so we have to
+            # parse the main list page to get it
+            info['state'] = self.get_state(a1.getparent())
 
             if info is not None:
                 print(info['name'], file=sys.stderr)
