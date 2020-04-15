@@ -2605,13 +2605,13 @@
     "state": "Rhineland-Palatinate"
   },
   {
-    "area": "133.58",
+    "area": "13.58",
     "coords": {
       "lat": "49.650",
       "lon": "7.183"
     },
     "district": "Birkenfeld",
-    "name": "Birkenfeld District",
+    "name": "Birkenfeld",
     "population": "6984",
     "state": "Rhineland-Palatinate"
   },
@@ -4522,7 +4522,7 @@
       "lat": "51.517",
       "lon": "7.467"
     },
-    "district": "Urban",
+    "district": "Urban district",
     "name": "Dortmund",
     "population": "587010",
     "state": "North Rhine-Westphalia"
@@ -5210,6 +5210,7 @@
     "state": "Baden-Württemberg"
   },
   {
+    "area": "70.53",
     "coords": {
       "lat": "47.85278",
       "lon": "8.77139"
@@ -8180,8 +8181,8 @@
   {
     "area": "66.60",
     "coords": {
-      "lat": "52.50000",
-      "lon": "12.46667"
+      "lat": "52.500",
+      "lon": "12.467"
     },
     "district": "Potsdam-Mittelmark",
     "name": "Havelsee",
@@ -11467,8 +11468,8 @@
   {
     "area": "96.73",
     "coords": {
-      "lat": "51.15000",
-      "lon": "8.80000"
+      "lat": "51.150",
+      "lon": "8.800"
     },
     "district": "Waldeck-Frankenberg",
     "name": "Lichtenfels",
@@ -11621,8 +11622,8 @@
   {
     "area": "176.15",
     "coords": {
-      "lat": "52.52306000",
-      "lon": "7.323279000"
+      "lat": "52.52306",
+      "lon": "7.32306"
     },
     "district": "Emsland",
     "name": "Lingen",
@@ -11998,7 +11999,7 @@
       "lat": "53.86972",
       "lon": "10.68639"
     },
-    "district": "Urban districts of Germany",
+    "district": "Urban district",
     "name": "Lübeck",
     "population": "217198",
     "state": "Schleswig-Holstein"
@@ -12226,8 +12227,8 @@
   {
     "area": "144.96",
     "coords": {
-      "lat": "49.48889",
-      "lon": "8.46917"
+      "lat": "49.48778",
+      "lon": "8.46611"
     },
     "district": "urban district",
     "name": "Mannheim",
@@ -16044,7 +16045,7 @@
       "lat": "53.700",
       "lon": "10.750"
     },
-    "district": "Lauenburg",
+    "district": "Herzogtum Lauenburg",
     "name": "Ratzeburg",
     "population": "14652",
     "state": "Schleswig-Holstein"
@@ -17086,8 +17087,8 @@
   {
     "area": "145.56",
     "coords": {
-      "lat": "50.65000",
-      "lon": "11.36667"
+      "lat": "50.650",
+      "lon": "11.367"
     },
     "district": "Saalfeld-Rudolstadt",
     "name": "Saalfeld",
@@ -17271,6 +17272,7 @@
     "state": "Rhineland-Palatinate"
   },
   {
+    "area": "49.95",
     "coords": {
       "lat": "49.300",
       "lon": "7.117"
