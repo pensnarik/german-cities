@@ -3951,7 +3951,6 @@
       "lon": "11.43417"
     },
     "district": "Dachau",
-    "name": "Dachau",
     "name": "Dachau, Bavaria",
     "population": "47400",
     "state": "Bavaria"
@@ -20979,7 +20978,7 @@
     "state": "Bavaria"
   },
   {
-    "area": "80.94",
+    "area": "80.92",
     "coords": {
       "lat": "49.48167",
       "lon": "9.89917"
