@@ -759,6 +759,17 @@
     "state": "Thuringia"
   },
   {
+    "area": "197.21",
+    "coords": {
+      "lat": "53.47139",
+      "lon": "7.48361"
+    },
+    "district": "Aurich",
+    "name": "Aurich",
+    "population": "42040",
+    "state": "Lower Saxony"
+  },
+  {
     "area": "43.57",
     "coords": {
       "lat": "50.583",
@@ -1628,14 +1639,14 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "98.5",
+    "area": "152.02",
     "coords": {
       "lat": "50.81167",
       "lon": "10.23333"
     },
     "district": "Wartburgkreis",
     "name": "Bad Salzungen",
-    "population": "20097",
+    "population": "23455",
     "state": "Thuringia"
   },
   {
@@ -4563,8 +4574,8 @@
   {
     "area": "328.8",
     "coords": {
-      "lat": "51.033",
-      "lon": "13.733"
+      "lat": "51.05000",
+      "lon": "13.74000"
     },
     "district": "Urban district",
     "name": "Dresden",
@@ -5496,7 +5507,7 @@
     "state": "Lower Saxony"
   },
   {
-    "area": "210.32",
+    "area": "210.34",
     "coords": {
       "lat": "51.45083",
       "lon": "7.01306"
@@ -5804,6 +5815,17 @@
     "state": "Rhineland-Palatinate"
   },
   {
+    "area": "147.61",
+    "coords": {
+      "lat": "52.350",
+      "lon": "14.550"
+    },
+    "district": "Urban district",
+    "name": "Frankfurt (Oder)",
+    "population": "57751",
+    "state": "Brandenburg"
+  },
+  {
     "area": "248.31",
     "coords": {
       "lat": "50.117",
@@ -5813,17 +5835,6 @@
     "name": "Frankfurt am Main",
     "population": "763380",
     "state": "Hesse"
-  },
-  {
-    "area": "147.61",
-    "coords": {
-      "lat": "52.350",
-      "lon": "14.550"
-    },
-    "district": "Urban district",
-    "name": "Frankfurt",
-    "population": "57751",
-    "state": "Brandenburg"
   },
   {
     "area": "15.19",
@@ -6422,8 +6433,8 @@
   {
     "area": "33.18",
     "coords": {
-      "lat": "53.433",
-      "lon": "10.367"
+      "lat": "53.43750",
+      "lon": "10.36750"
     },
     "district": "Lauenburg",
     "name": "Geesthacht",
@@ -7179,14 +7190,14 @@
     "state": "Thuringia"
   },
   {
-    "area": "19.15",
+    "area": "86.82",
     "coords": {
       "lat": "51.22917",
       "lon": "10.94750"
     },
     "district": "Kyffhäuserkreis",
     "name": "Greußen",
-    "population": "3432",
+    "population": "5870",
     "state": "Thuringia"
   },
   {
@@ -7352,17 +7363,6 @@
     "district": "Ilm-Kreis",
     "name": "Großbreitenbach",
     "population": "6253",
-    "state": "Thuringia"
-  },
-  {
-    "area": "63.26",
-    "coords": {
-      "lat": "51.24944",
-      "lon": "10.83222"
-    },
-    "district": "Kyffhäuserkreis",
-    "name": "Großenehrich",
-    "population": "2299",
     "state": "Thuringia"
   },
   {
@@ -9667,7 +9667,7 @@
       "lat": "49.44472",
       "lon": "7.76889"
     },
-    "district": "Urban district",
+    "district": "Kaiserslautern",
     "name": "Kaiserslautern",
     "population": "100030",
     "state": "Rhineland-Palatinate"
@@ -10790,7 +10790,7 @@
       "lon": "8.117"
     },
     "district": "Urban district",
-    "name": "Landau",
+    "name": "Landau in der Pfalz",
     "population": "46881",
     "state": "Rhineland-Palatinate"
   },
@@ -11615,7 +11615,7 @@
       "lon": "7.32306"
     },
     "district": "Emsland",
-    "name": "Lingen",
+    "name": "Lingen (Ems)",
     "population": "54708",
     "state": "Lower Saxony"
   },
@@ -11978,7 +11978,7 @@
       "lon": "13.967"
     },
     "district": "Oberspreewald-Lausitz",
-    "name": "Lübbenau/Lubnjow",
+    "name": "Lübbenau/Spreewald",
     "population": "15977",
     "state": "Brandenburg"
   },
@@ -13195,8 +13195,8 @@
   {
     "area": "91.26",
     "coords": {
-      "lat": "51.433",
-      "lon": "6.883"
+      "lat": "51.42750",
+      "lon": "6.88250"
     },
     "district": "Urban districts of Germany",
     "name": "Mülheim an der Ruhr",
@@ -17955,14 +17955,14 @@
     "state": "Brandenburg"
   },
   {
-    "area": "200.12",
+    "area": "252.19",
     "coords": {
       "lat": "53.050",
       "lon": "14.267"
     },
     "district": "Uckermark",
     "name": "Schwedt",
-    "population": "29680",
+    "population": "30483",
     "state": "Brandenburg"
   },
   {
@@ -18680,6 +18680,17 @@
     "state": "North Rhine-Westphalia"
   },
   {
+    "area": "22.77",
+    "coords": {
+      "lat": "47.700",
+      "lon": "11.767"
+    },
+    "district": "Miesbach",
+    "name": "Stadt Tegernsee",
+    "population": "3682",
+    "state": "Bavaria"
+  },
+  {
     "area": "10.81",
     "coords": {
       "lat": "50.95694",
@@ -19098,7 +19109,7 @@
     "state": "Baden-Württemberg"
   },
   {
-    "area": "207.36",
+    "area": "207.33",
     "coords": {
       "lat": "48.782",
       "lon": "9.184"
@@ -19349,17 +19360,6 @@
     "name": "Tecklenburg",
     "population": "9070",
     "state": "North Rhine-Westphalia"
-  },
-  {
-    "area": "22.77",
-    "coords": {
-      "lat": "47.700",
-      "lon": "11.767"
-    },
-    "district": "Miesbach",
-    "name": "Tegernsee",
-    "population": "3682",
-    "state": "Bavaria"
   },
   {
     "area": "90.6",
@@ -20660,6 +20660,17 @@
     "state": "Bavaria"
   },
   {
+    "area": "13.07",
+    "coords": {
+      "lat": "49.39528",
+      "lon": "7.34111"
+    },
+    "district": "Kusel",
+    "name": "Waldmohr",
+    "population": "5134",
+    "state": "Rhineland-Palatinate"
+  },
+  {
     "area": "101.16",
     "coords": {
       "lat": "49.367",
@@ -20713,17 +20724,6 @@
     "name": "Walldürn",
     "population": "11611",
     "state": "Baden-Württemberg"
-  },
-  {
-    "area": "197.21",
-    "coords": {
-      "lat": "53.47139",
-      "lon": "7.48361"
-    },
-    "district": "Aurich",
-    "name": "Walle/Sandhorst",
-    "population": "42040",
-    "state": "Lower Saxony"
   },
   {
     "area": "45.60",
