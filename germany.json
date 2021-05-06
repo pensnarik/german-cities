@@ -11010,7 +11010,7 @@
       "lon": "11.27722"
     },
     "district": "Nürnberger Land",
-    "name": "Lauf a.d.Pegnitz",
+    "name": "Lauf an der Pegnitz",
     "population": "26483",
     "state": "Bavaria"
   },
@@ -12995,7 +12995,7 @@
     "state": "Baden-Württemberg"
   },
   {
-    "area": "310.43",
+    "area": "310.71",
     "coords": {
       "lat": "48.133",
       "lon": "11.567"
@@ -14360,8 +14360,8 @@
   {
     "area": "186.46",
     "coords": {
-      "lat": "49.450",
-      "lon": "11.083"
+      "lat": "49.45389",
+      "lon": "11.07750"
     },
     "district": "Urban district",
     "name": "Nuremberg",
@@ -17097,7 +17097,7 @@
     "state": "Saarland"
   },
   {
-    "area": "20.36",
+    "area": "20.63",
     "coords": {
       "lat": "49.617",
       "lon": "6.550"
@@ -17966,7 +17966,7 @@
     "state": "Brandenburg"
   },
   {
-    "area": "31.09",
+    "area": "31.08",
     "coords": {
       "lat": "49.82000",
       "lon": "6.75222"
@@ -19032,10 +19032,10 @@
     "state": "North Rhine-Westphalia"
   },
   {
-    "area": "38.97",
+    "area": "54.07",
     "coords": {
-      "lat": "54.300",
-      "lon": "13.083"
+      "lat": "54.30917",
+      "lon": "13.08194"
     },
     "district": "Vorpommern-Rügen",
     "name": "Stralsund",
@@ -19758,7 +19758,7 @@
     "state": "Mecklenburg-Western Pomerania"
   },
   {
-    "area": "117.13",
+    "area": "117.06",
     "coords": {
       "lat": "49.75667",
       "lon": "6.64139"
